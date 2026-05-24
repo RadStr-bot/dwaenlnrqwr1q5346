@@ -1,0 +1,17 @@
+{
+  "iri": "http://dataspecer.com/packages/local-root/5fc98c79-53e9-407e-a5c4-a36d4fd49ef1/a3dd342e-a3a8-4d7e-8add-0919ad589947",
+  "projectIri": "e719b182-70bd-4f91-84a1-8af51de02643",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "documentBaseUrl": "https://datagov-cz.github.io/cache-slovniku/dublin_core_terms.ttl",
+    "label": {
+      "en": "dublin_core_terms"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

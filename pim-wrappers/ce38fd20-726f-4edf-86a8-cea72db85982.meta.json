@@ -1,0 +1,17 @@
+{
+  "iri": "http://dataspecer.com/packages/local-root/5fc98c79-53e9-407e-a5c4-a36d4fd49ef1/99e863e6-8989-4c69-b0fb-6d284e16b700",
+  "projectIri": "ce38fd20-726f-4edf-86a8-cea72db85982",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "documentBaseUrl": "https://datagov-cz.github.io/cache-slovniku/skos.rdf",
+    "label": {
+      "en": "skos"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
